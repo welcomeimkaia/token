@@ -1,4 +1,4 @@
-# Welcome to iMarkoMC’s token deletion repo! 
+# Welcome to KAIA’s token deletion repo! 
 
 Here’s a quick overview of the features this repository offers.
 
